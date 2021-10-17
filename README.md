@@ -4,6 +4,8 @@ Development enviroment - Anaconda
 Programing language - Python
 
 
+
+
 Algorithm:
 
 Croping the video to get rid of the black frame.
